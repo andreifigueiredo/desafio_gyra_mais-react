@@ -1,0 +1,372 @@
+{
+  "mensagens": [
+    {
+      "_id": "5f453bb8c3523d5f0a7532b3",
+      "nomeRemetente": "Postman Teste",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-25T16:26:32.579Z",
+      "updatedAt": "2020-08-25T16:26:32.579Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f453ee7e003d26327c60d8f",
+      "nomeRemetente": "Postman Teste",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-25T16:40:07.224Z",
+      "updatedAt": "2020-08-25T16:40:07.224Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c51e77614e64da0c7d8d",
+      "nomeRemetente": "Teste socket",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:12:46.748Z",
+      "updatedAt": "2020-08-26T02:12:46.748Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c55277614e64da0c7d8e",
+      "nomeRemetente": "Teste socket",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:13:38.235Z",
+      "updatedAt": "2020-08-26T02:13:38.235Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c57a77614e64da0c7d8f",
+      "nomeRemetente": "Teste socket",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:14:18.244Z",
+      "updatedAt": "2020-08-26T02:14:18.244Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c63b77614e64da0c7d90",
+      "nomeRemetente": "Teste socket new",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:17:31.503Z",
+      "updatedAt": "2020-08-26T02:17:31.503Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c74877614e64da0c7d91",
+      "nomeRemetente": "Teste socket new",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:22:00.147Z",
+      "updatedAt": "2020-08-26T02:22:00.147Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c78077614e64da0c7d92",
+      "nomeRemetente": "Teste socket new",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:22:56.509Z",
+      "updatedAt": "2020-08-26T02:22:56.509Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c7ad77614e64da0c7d93",
+      "nomeRemetente": "Teste socket new",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:23:41.676Z",
+      "updatedAt": "2020-08-26T02:23:41.676Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c7f477614e64da0c7d94",
+      "nomeRemetente": "Teste socket new",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:24:52.775Z",
+      "updatedAt": "2020-08-26T02:24:52.775Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c89077614e64da0c7d95",
+      "nomeRemetente": "Teste socket again",
+      "texto": "Texto do postman para ver se ta tudo ok",
+      "createdAt": "2020-08-26T02:27:28.400Z",
+      "updatedAt": "2020-08-26T02:27:28.400Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c8d277614e64da0c7d96",
+      "nomeRemetente": "Teste socket again",
+      "texto": "Texto do postman map funciona",
+      "createdAt": "2020-08-26T02:28:34.672Z",
+      "updatedAt": "2020-08-26T02:28:34.672Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f45c95677614e64da0c7d97",
+      "nomeRemetente": "Teste socket again",
+      "texto": "Texto do postman map funciona again",
+      "createdAt": "2020-08-26T02:30:46.350Z",
+      "updatedAt": "2020-08-26T02:30:46.350Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f467046767d0c0ca8a83947",
+      "nomeRemetente": "Andrei",
+      "texto": "Olá pessoal",
+      "createdAt": "2020-08-26T14:23:02.099Z",
+      "updatedAt": "2020-08-26T14:23:02.099Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f467165767d0c0ca8a83948",
+      "nomeRemetente": "Andrei",
+      "texto": "Mensagens repetidas?",
+      "createdAt": "2020-08-26T14:27:49.121Z",
+      "updatedAt": "2020-08-26T14:27:49.121Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4671f1767d0c0ca8a83949",
+      "nomeRemetente": "Andrei",
+      "texto": "Correção",
+      "createdAt": "2020-08-26T14:30:09.776Z",
+      "updatedAt": "2020-08-26T14:30:09.776Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4672f4767d0c0ca8a8394a",
+      "nomeRemetente": "Andrei",
+      "texto": "Tudo bem?",
+      "createdAt": "2020-08-26T14:34:28.140Z",
+      "updatedAt": "2020-08-26T14:34:28.140Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f46746c767d0c0ca8a8394b",
+      "nomeRemetente": "Postman",
+      "texto": "Texto do postman map funciona again",
+      "createdAt": "2020-08-26T14:40:44.719Z",
+      "updatedAt": "2020-08-26T14:40:44.719Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f467644767d0c0ca8a8394c",
+      "nomeRemetente": "Andrei",
+      "texto": "Teste",
+      "createdAt": "2020-08-26T14:48:36.526Z",
+      "updatedAt": "2020-08-26T14:48:36.526Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4676f4767d0c0ca8a8394d",
+      "nomeRemetente": "Andrei",
+      "texto": "Teste1",
+      "createdAt": "2020-08-26T14:51:32.218Z",
+      "updatedAt": "2020-08-26T14:51:32.218Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f467707767d0c0ca8a8394e",
+      "nomeRemetente": "Postman",
+      "texto": "Texto do postman newMessage",
+      "createdAt": "2020-08-26T14:51:51.748Z",
+      "updatedAt": "2020-08-26T14:51:51.748Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469a98767d0c0ca8a8394f",
+      "nomeRemetente": "Andrei",
+      "texto": "Legal, qual é a boa?",
+      "createdAt": "2020-08-26T17:23:36.288Z",
+      "updatedAt": "2020-08-26T17:23:36.288Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469b93767d0c0ca8a83950",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-26T17:27:47.173Z",
+      "updatedAt": "2020-08-26T17:27:47.173Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469b9f767d0c0ca8a83951",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-26T17:27:59.799Z",
+      "updatedAt": "2020-08-26T17:27:59.799Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469b9f767d0c0ca8a83952",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-26T17:27:59.837Z",
+      "updatedAt": "2020-08-26T17:27:59.837Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469bb2767d0c0ca8a83953",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-26T17:28:18.155Z",
+      "updatedAt": "2020-08-26T17:28:18.155Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469bbc767d0c0ca8a83954",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-26T17:28:28.443Z",
+      "updatedAt": "2020-08-26T17:28:28.443Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f469bc2767d0c0ca8a83955",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-26T17:28:34.086Z",
+      "updatedAt": "2020-08-26T17:28:34.086Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f46fce1a1aaeb1031e179ee",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-27T00:22:57.281Z",
+      "updatedAt": "2020-08-27T00:22:57.281Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f46fce5a1aaeb1031e179ef",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-27T00:23:01.787Z",
+      "updatedAt": "2020-08-27T00:23:01.787Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47060ba1aaeb1031e179f0",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-27T01:02:03.815Z",
+      "updatedAt": "2020-08-27T01:02:03.815Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f470adea1aaeb1031e179f1",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-27T01:22:38.048Z",
+      "updatedAt": "2020-08-27T01:22:38.048Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f470fc7a1aaeb1031e179f2",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-27T01:43:35.904Z",
+      "updatedAt": "2020-08-27T01:43:35.904Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f472065a1aaeb1031e179f3",
+      "nomeRemetente": "Andrei",
+      "texto": "Olá galera",
+      "createdAt": "2020-08-27T02:54:29.790Z",
+      "updatedAt": "2020-08-27T02:54:29.790Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47206da1aaeb1031e179f4",
+      "nomeRemetente": "Andrei",
+      "texto": "Ops",
+      "createdAt": "2020-08-27T02:54:37.612Z",
+      "updatedAt": "2020-08-27T02:54:37.612Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f472071a1aaeb1031e179f5",
+      "nomeRemetente": "System",
+      "texto": "Andrei saiu da sala.",
+      "createdAt": "2020-08-27T02:54:41.647Z",
+      "updatedAt": "2020-08-27T02:54:41.647Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f472075a1aaeb1031e179f6",
+      "nomeRemetente": "System",
+      "texto": "Zé entrou na sala.",
+      "createdAt": "2020-08-27T02:54:45.598Z",
+      "updatedAt": "2020-08-27T02:54:45.598Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47207ba1aaeb1031e179f7",
+      "nomeRemetente": "Zé",
+      "texto": "Koé",
+      "createdAt": "2020-08-27T02:54:51.781Z",
+      "updatedAt": "2020-08-27T02:54:51.781Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4723e6a1aaeb1031e179f8",
+      "nomeRemetente": "Zé",
+      "texto": "Teste",
+      "createdAt": "2020-08-27T03:09:26.239Z",
+      "updatedAt": "2020-08-27T03:09:26.239Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47254ba1aaeb1031e179f9",
+      "nomeRemetente": "Zé",
+      "texto": "Teste",
+      "createdAt": "2020-08-27T03:15:23.678Z",
+      "updatedAt": "2020-08-27T03:15:23.678Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47257ea1aaeb1031e179fa",
+      "nomeRemetente": "Zé",
+      "texto": "Tetse",
+      "createdAt": "2020-08-27T03:16:14.125Z",
+      "updatedAt": "2020-08-27T03:16:14.125Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4725c5a1aaeb1031e179fb",
+      "nomeRemetente": "Zé",
+      "texto": "Teste",
+      "createdAt": "2020-08-27T03:17:25.084Z",
+      "updatedAt": "2020-08-27T03:17:25.084Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4727d2a1aaeb1031e179fc",
+      "nomeRemetente": "Zé",
+      "texto": "Teste",
+      "createdAt": "2020-08-27T03:26:10.105Z",
+      "updatedAt": "2020-08-27T03:26:10.105Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f4727eda1aaeb1031e179fd",
+      "nomeRemetente": "Zé",
+      "texto": "Legal",
+      "createdAt": "2020-08-27T03:26:37.454Z",
+      "updatedAt": "2020-08-27T03:26:37.454Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47adc9d2ca370bbaea4281",
+      "nomeRemetente": "System",
+      "texto": "Zé saiu da sala.",
+      "createdAt": "2020-08-27T12:57:45.535Z",
+      "updatedAt": "2020-08-27T12:57:45.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "5f47ae1bd2ca370bbaea4282",
+      "nomeRemetente": "System",
+      "texto": "Andrei entrou na sala.",
+      "createdAt": "2020-08-27T12:59:07.736Z",
+      "updatedAt": "2020-08-27T12:59:07.736Z",
+      "__v": 0
+    }
+  ]
+}

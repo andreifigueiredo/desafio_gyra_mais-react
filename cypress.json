@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://localhost:8000",
+  "viewportWidth": 1415,
+  "integrationFolder": ".",
+  "ignoreTestFiles": "**/node_modules/**",
+  "testFiles": ["**/**.feature"],
+  "video": false,
+  "screenshotsFolder": "cypress/snapshots",
+  "nodeVersion": "system"
+}

@@ -1,0 +1,17 @@
+{
+  "errors": {
+      "texto": {
+          "name": "ValidatorError",
+          "message": "Path `texto` is required.",
+          "properties": {
+              "message": "Path `texto` is required.",
+              "type": "required",
+              "path": "texto"
+          },
+          "kind": "required",
+          "path": "texto"
+      }
+  },
+  "_message": "Mensagem validation failed",
+  "message": "Mensagem validation failed: texto: Path `texto` is required."
+}

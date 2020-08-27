@@ -1,0 +1,10 @@
+{
+  "mensagem": {
+    "_id": "5f453bb8c3523d5f0a7532b3",
+    "nomeRemetente": "Cypress Teste",
+    "texto": "Texto do cypress para ver se ta tudo ok",
+    "createdAt": "2020-08-25T16:26:32.579Z",
+    "updatedAt": "2020-08-25T16:26:32.579Z",
+    "__v": 0
+  }
+}
